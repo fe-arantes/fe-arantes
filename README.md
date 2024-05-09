@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I have been a software engineer, crafting software solutions since 2008. I have a passion for development, innovation, technology, and marketing, and I like to learn something new every day.
+I am a software engineer, crafting solutions since 2008. I have a passion for development, innovation, technology, and marketing, and I like to learn something new every day.
 
 - 🚀 My expertise lies in Software Engineering and Architecture
 - 💜 I love helping people and solving problems.
