@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi everyone 👋
+
+I have been a software engineer, crafting software solutions since 2008. I have a passion for development, innovation, technology, and marketing, and I like to learn something new every day.
+
+- 🚀 My expertise lies in Software Engineering and Architecture
+- 💜 I love helping people and solving problems.
+- 🌱 I’m currently learning about AI.
 
 <!--
 **fe-arantes/fe-arantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
